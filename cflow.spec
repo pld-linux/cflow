@@ -3,7 +3,7 @@ Summary(pl):	Pokazywanie struktury wywo³añ C
 Summary(pt_BR):	Mostra a estrutura de chamadas de funções em fontes de linguagem C
 Name:		cflow
 Version:	2.0
-Release:	3
+Release:	3.1
 License:	Public Domain
 Group:		Development/Tools
 Source0:	http://www.ibiblio.org/pub/Linux/devel/lang/c/%{name}-%{version}.tar.gz
