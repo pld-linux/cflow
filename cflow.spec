@@ -7,6 +7,7 @@ Release:	3
 License:	Public Domain
 Group:		Development/Tools
 Source0:	http://www.ibiblio.org/pub/Linux/devel/lang/c/%{name}-%{version}.tar.gz
+# Source0-md5:	09d6131980aa770289938f71401e8976
 Source1:	%{name}.conf
 Patch0:		%{name}-%{version}-config.patch
 Requires:	gcc
