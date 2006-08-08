@@ -25,7 +25,7 @@ Mostra a estrutura de chamadas de funções em fontes de linguagem C
 
 %prep
 %setup -q
-%patch -p1
+%patch0 -p1
 
 %build
 %{__make} PRCC_LOC=%{_bindir}/prcc PRCG_LOC=%{_bindir}/prcg
