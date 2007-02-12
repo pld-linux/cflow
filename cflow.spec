@@ -1,6 +1,6 @@
 Summary:	Show C language call structure
-Summary(pl):	Pokazywanie struktury wywo³añ C
-Summary(pt_BR):	Mostra a estrutura de chamadas de funções em fontes de linguagem C
+Summary(pl.UTF-8):   Pokazywanie struktury wywoÅ‚aÅ„ C
+Summary(pt_BR.UTF-8):   Mostra a estrutura de chamadas de funÃ§Ãµes em fontes de linguagem C
 Name:		cflow
 Version:	2.0
 Release:	3.1
@@ -17,11 +17,11 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 Show C language call structure.
 
-%description -l pl
-Pokazywanie struktury wywo³añ C.
+%description -l pl.UTF-8
+Pokazywanie struktury wywoÅ‚aÅ„ C.
 
-%description -l pt_BR
-Mostra a estrutura de chamadas de funções em fontes de linguagem C
+%description -l pt_BR.UTF-8
+Mostra a estrutura de chamadas de funÃ§Ãµes em fontes de linguagem C
 
 %prep
 %setup -q
